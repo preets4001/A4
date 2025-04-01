@@ -1,0 +1,9 @@
+cd IS-117
+make repo in GitHub 
+git clone (repo link)
+cd into project name(ex. A04)
+make file ex. index.html 
+code 
+git add .
+git commit -m 'message'
+git push 
